@@ -1,0 +1,7 @@
+einops
+ipywidgets
+matplotlib
+numpy
+scikit-image
+scikit-learn
+scipy

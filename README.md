@@ -1,5 +1,7 @@
 # Remote Sensing – Introduction to Using Machine Learning for Satellite Data
 
+![Pavia inference demo](pavia_inference_demo.png)
+
 A sneak-peak lesson about applying machine learning to satellite imagery by the example of terrain segmentation on the Pavia University dataset.
 
 You can either follow this lesson by reading the Jypyter notebook or execute it interactively.
